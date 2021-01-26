@@ -1,0 +1,4 @@
+Réponse :
+
+L'un des ports de la trame n'est pas le 9012 car le port de la VM n'est pas le 9012 mais on a juste envoyé sur le port 9012.
+ 
